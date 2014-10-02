@@ -8,7 +8,7 @@ Just include the theme right after the Bootstrap CSS and include the javascript 
 
 This theme is in early development and is not ready for production.
 
-Check out [the demo at this link](http://shockwork.github.io/bootstrap-material-design/).
+Check out [the demo at this link](http://shockwork.github.io/bootstrap-material-design-sass/).
 
 ## How to install
 
