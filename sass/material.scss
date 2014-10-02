@@ -40,7 +40,7 @@ legend {
 }
 
 .modal-content {
-    .shadow-z-2();
+    @extend .shadow-z-2;
     border-radius: 0;
     border: 0;
     .modal-header {

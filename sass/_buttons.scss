@@ -1,10 +1,10 @@
 // main: _material.scss
 
 @mixin btn-shadow(){
-    .shadow-z-2();
+    @extend .shadow-z-2;
     transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1);
     &:active:not(.btn-link) {
-        .shadow-z-3();
+        @extend .shadow-z-3;
     }
 }
 
@@ -24,11 +24,11 @@
         color: $darkbg-text;
     }
     &:hover:not(.btn-link) {
-        .shadow-z-2-hover();
+        @extend .shadow-z-2-hover;
     }
     transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1);
     &:active:not(.btn-link) {
-        .shadow-z-3();
+        @extend .shadow-z-3;
     }
     outline: none !important;
 
