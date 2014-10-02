@@ -3,5 +3,7 @@
 # Example .gitignore files: https://github.com/github/gitignore
 
 Thumbs.db
+.sass-cache
 .DS_Store
-/node_modules/
+demo/css-compiled/
+node_modules/

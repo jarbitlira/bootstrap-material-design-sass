@@ -3,16 +3,12 @@ module.exports = function(grunt) {
     "use strict";
 
     grunt.initConfig({
-
-        less: {
+        sass: {
             production: {
-                options: {
-                    paths: ["less"]
-                },
                 files: {
-                    "css-compiled/material.css": "less/material.less",
-                    "css-compiled/material-wfont.css": "less/material-wfont.less",
-                    "css-compiled/ripples.css": "less/ripples.less"
+                    "css-compiled/material.css": "sass/material.scss",
+                    "css-compiled/material-wfont.css": "sass/material-wfont.scss",
+                    "css-compiled/ripples.css": "sass/ripples.scss"
                 }
             }
         },
@@ -53,9 +49,10 @@ module.exports = function(grunt) {
         }
 
     });
+    grunt.loadNpmTasks("grunt-contrib-sass");
     grunt.loadNpmTasks("grunt-contrib-less");
     grunt.loadNpmTasks("grunt-autoprefixer");
     grunt.loadNpmTasks("grunt-contrib-cssmin");
     grunt.loadNpmTasks("grunt-contrib-copy");
-    grunt.registerTask("default", ["less", "autoprefixer", "cssmin", "copy"]);
+    grunt.registerTask("default", ["sass", "autoprefixer", "cssmin", "copy"]);
 };
