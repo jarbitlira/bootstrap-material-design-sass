@@ -1,11 +1,11 @@
 {
   "name": "Material Design for Bootstrap",
-  "version": "0.0.8",
-  "homepage": "http://fezvrasta.github.io/bootstrap-material-design",
+  "version": "0.1.0beta",
+  "homepage": "http://shockwork.github.io/bootstrap-material-design-sass",
   "authors": [
-    "Federico Zivolo <info@mywebexpression.com>"
+    "Robert Stenbom <robert@shockwork.net>"
   ],
-  "description": "Material Design theme for Bootstrap 3",
+  "description": "Material Design theme for Bootstrap 3, SASS port",
   "main": "css-compiled/material.css",
   "keywords": [
     "material",
@@ -15,7 +15,7 @@
     "google",
     "android"
   ],
-  "license": "https://github.com/FezVrasta/bootstrap-material-design/blob/master/LICENSE.md",
+  "license": "https://github.com/shockwork/bootstrap-material-design-sass/blob/master/LICENSE.md",
   "ignore": [
     "**/.*",
     "node_modules",

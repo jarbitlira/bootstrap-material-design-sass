@@ -157,73 +157,73 @@ body .well, body .jumbotron, .container .well, .container .jumbotron, .container
     font-size: 15px; }
 
 .btn-default {
-  backgorund-color: transparent; }
+  background-color: white; }
 
 .btn-primary {
-  backgorund-color: #4285f4; }
+  background-color: #4285f4; }
 
 .btn-success {
-  backgorund-color: #0f9d58; }
+  background-color: #0f9d58; }
 
 .btn-info {
-  backgorund-color: #03a9f4; }
+  background-color: #03a9f4; }
 
 .btn-warning {
-  backgorund-color: #ff5722; }
+  background-color: #ff5722; }
 
 .btn-danger {
-  backgorund-color: #f44336; }
+  background-color: #f44336; }
 
 .btn-material-red {
-  backgorund-color: #f44336; }
+  background-color: #f44336; }
 
 .btn-material-pink {
-  backgorund-color: #e91e63; }
+  background-color: #e91e63; }
 
 .btn-material-purple {
-  backgorund-color: #9c27b0; }
+  background-color: #9c27b0; }
 
 .btn-material-deeppurple {
-  backgorund-color: #673ab7; }
+  background-color: #673ab7; }
 
 .btn-material-indigo {
-  backgorund-color: #3f51b5; }
+  background-color: #3f51b5; }
 
 .btn-material-lightblue {
-  backgorund-color: #03a9f4; }
+  background-color: #03a9f4; }
 
 .btn-material-cyan {
-  backgorund-color: #00bcd4; }
+  background-color: #00bcd4; }
 
 .btn-material-teal {
-  backgorund-color: #009688; }
+  background-color: #009688; }
 
 .btn-material-lightgreen {
-  backgorund-color: #8bc34a; }
+  background-color: #8bc34a; }
 
 .btn-material-lime {
-  backgorund-color: #cddc39; }
+  background-color: #cddc39; }
 
 .btn-material-lightyellow {
-  backgorund-color: #ffeb3b; }
+  background-color: #ffeb3b; }
 
 .btn-material-orange {
-  backgorund-color: #ff9800; }
+  background-color: #ff9800; }
 
 .btn-material-deeporange {
-  backgorund-color: #ff5722; }
+  background-color: #ff5722; }
 
 .btn-material-grey {
-  backgorund-color: #9e9e9e; }
+  background-color: #9e9e9e; }
 
 .btn-material-bluegrey {
-  backgorund-color: #607d8b; }
+  background-color: #607d8b; }
 
 .btn-material-brown {
-  backgorund-color: #795548; }
+  background-color: #795548; }
 
 .btn-material-lightgrey {
-  backgorund-color: #ececec; }
+  background-color: #ececec; }
 
 .form-horizontal .checkbox {
   padding-top: 15px; }
@@ -918,73 +918,73 @@ legend {
     color: rgba(0, 0, 0, 0.84); }
 
 .navbar-default {
-  backgorund-color: #4285f4; }
+  background-color: #4285f4; }
 
 .navbar-primary {
-  backgorund-color: #4285f4; }
+  background-color: #4285f4; }
 
 .navbar-success {
-  backgorund-color: #0f9d58; }
+  background-color: #0f9d58; }
 
 .navbar-info {
-  backgorund-color: #03a9f4; }
+  background-color: #03a9f4; }
 
 .navbar-warning {
-  backgorund-color: #ff5722; }
+  background-color: #ff5722; }
 
 .navbar-danger {
-  backgorund-color: #f44336; }
+  background-color: #f44336; }
 
 .navbar-material-red {
-  backgorund-color: #f44336; }
+  background-color: #f44336; }
 
 .navbar-material-pink {
-  backgorund-color: #e91e63; }
+  background-color: #e91e63; }
 
 .navbar-material-purple {
-  backgorund-color: #9c27b0; }
+  background-color: #9c27b0; }
 
 .navbar-material-deeppurple {
-  backgorund-color: #673ab7; }
+  background-color: #673ab7; }
 
 .navbar-material-indigo {
-  backgorund-color: #3f51b5; }
+  background-color: #3f51b5; }
 
 .navbar-material-lightblue {
-  backgorund-color: #03a9f4; }
+  background-color: #03a9f4; }
 
 .navbar-material-cyan {
-  backgorund-color: #00bcd4; }
+  background-color: #00bcd4; }
 
 .navbar-material-teal {
-  backgorund-color: #009688; }
+  background-color: #009688; }
 
 .navbar-material-lightgreen {
-  backgorund-color: #8bc34a; }
+  background-color: #8bc34a; }
 
 .navbar-material-lime {
-  backgorund-color: #cddc39; }
+  background-color: #cddc39; }
 
 .navbar-material-lightyellow {
-  backgorund-color: #ffeb3b; }
+  background-color: #ffeb3b; }
 
 .navbar-material-orange {
-  backgorund-color: #ff9800; }
+  background-color: #ff9800; }
 
 .navbar-material-deeporange {
-  backgorund-color: #ff5722; }
+  background-color: #ff5722; }
 
 .navbar-material-grey {
-  backgorund-color: #9e9e9e; }
+  background-color: #9e9e9e; }
 
 .navbar-material-bluegrey {
-  backgorund-color: #607d8b; }
+  background-color: #607d8b; }
 
 .navbar-material-brown {
-  backgorund-color: #795548; }
+  background-color: #795548; }
 
 .navbar-material-lightgrey {
-  backgorund-color: #ececec; }
+  background-color: #ececec; }
 
 .dropdown-menu {
   border: 0;
@@ -1004,79 +1004,79 @@ legend {
     color: #FFFFFF; }
 
 .alert-default {
-  backgorund-color: white; }
+  background-color: white; }
   .alert-default a, .alert-default .alert-link {
     color: #000000; }
 
 .alert-primary {
   color: #FFFFFF;
-  backgorund-color: #4285f4; }
+  background-color: #4285f4; }
 
 .alert-success {
   color: #FFFFFF;
-  backgorund-color: #0f9d58; }
+  background-color: #0f9d58; }
 
 .alert-info {
   color: #FFFFFF;
-  backgorund-color: #03a9f4; }
+  background-color: #03a9f4; }
 
 .alert-warning {
   color: #FFFFFF;
-  backgorund-color: #ff5722; }
+  background-color: #ff5722; }
 
 .alert-danger {
-  backgorund-color: #f44336; }
+  background-color: #f44336; }
 
 .alert-material-red {
-  backgorund-color: #f44336; }
+  background-color: #f44336; }
 
 .alert-material-pink {
-  backgorund-color: #e91e63; }
+  background-color: #e91e63; }
 
 .alert-material-purple {
-  backgorund-color: #9c27b0; }
+  background-color: #9c27b0; }
 
 .alert-material-deeppurple {
-  backgorund-color: #673ab7; }
+  background-color: #673ab7; }
 
 .alert-material-indigo {
-  backgorund-color: #3f51b5; }
+  background-color: #3f51b5; }
 
 .alert-material-lightblue {
-  backgorund-color: #03a9f4; }
+  background-color: #03a9f4; }
 
 .alert-material-cyan {
-  backgorund-color: #00bcd4; }
+  background-color: #00bcd4; }
 
 .alert-material-teal {
-  backgorund-color: #009688; }
+  background-color: #009688; }
 
 .alert-material-lightgreen {
-  backgorund-color: #8bc34a; }
+  background-color: #8bc34a; }
 
 .alert-material-lime {
-  backgorund-color: #cddc39; }
+  background-color: #cddc39; }
 
 .alert-material-lightyellow {
-  backgorund-color: #ffeb3b; }
+  background-color: #ffeb3b; }
 
 .alert-material-orange {
-  backgorund-color: #ff9800; }
+  background-color: #ff9800; }
 
 .alert-material-deeporange {
-  backgorund-color: #ff5722; }
+  background-color: #ff5722; }
 
 .alert-material-grey {
-  backgorund-color: #9e9e9e; }
+  background-color: #9e9e9e; }
 
 .alert-material-bluegrey {
-  backgorund-color: #607d8b; }
+  background-color: #607d8b; }
 
 .alert-material-brown {
-  backgorund-color: #795548; }
+  background-color: #795548; }
 
 .alert-material-lightgrey {
-  backgorund-color: #ececec; }
+  background-color: #ececec; }
 
 .progress {
   height: 4px;
@@ -1086,51 +1086,51 @@ legend {
   .progress .progress-bar {
     box-shadow: none; }
   .progress .progress-bar-default {
-    backgorund-color: #4285f4; }
+    background-color: #4285f4; }
   .progress .progress-bar-primary {
-    backgorund-color: #4285f4; }
+    background-color: #4285f4; }
   .progress .progress-bar-success {
-    backgorund-color: #0f9d58; }
+    background-color: #0f9d58; }
   .progress .progress-bar-info {
-    backgorund-color: #03a9f4; }
+    background-color: #03a9f4; }
   .progress .progress-bar-warning {
-    backgorund-color: #ff5722; }
+    background-color: #ff5722; }
   .progress .progress-bar-danger {
-    backgorund-color: #f44336; }
+    background-color: #f44336; }
   .progress .progress-bar-material-red {
-    backgorund-color: #f44336; }
+    background-color: #f44336; }
   .progress .progress-bar-material-pink {
-    backgorund-color: #e91e63; }
+    background-color: #e91e63; }
   .progress .progress-bar-material-purple {
-    backgorund-color: #9c27b0; }
+    background-color: #9c27b0; }
   .progress .progress-bar-material-deeppurple {
-    backgorund-color: #673ab7; }
+    background-color: #673ab7; }
   .progress .progress-bar-material-indigo {
-    backgorund-color: #3f51b5; }
+    background-color: #3f51b5; }
   .progress .progress-bar-material-lightblue {
-    backgorund-color: #03a9f4; }
+    background-color: #03a9f4; }
   .progress .progress-bar-material-cyan {
-    backgorund-color: #00bcd4; }
+    background-color: #00bcd4; }
   .progress .progress-bar-material-teal {
-    backgorund-color: #009688; }
+    background-color: #009688; }
   .progress .progress-bar-material-lightgreen {
-    backgorund-color: #8bc34a; }
+    background-color: #8bc34a; }
   .progress .progress-bar-material-lime {
-    backgorund-color: #cddc39; }
+    background-color: #cddc39; }
   .progress .progress-bar-material-lightyellow {
-    backgorund-color: #ffeb3b; }
+    background-color: #ffeb3b; }
   .progress .progress-bar-material-orange {
-    backgorund-color: #ff9800; }
+    background-color: #ff9800; }
   .progress .progress-bar-material-deeporange {
-    backgorund-color: #ff5722; }
+    background-color: #ff5722; }
   .progress .progress-bar-material-grey {
-    backgorund-color: #9e9e9e; }
+    background-color: #9e9e9e; }
   .progress .progress-bar-material-bluegrey {
-    backgorund-color: #607d8b; }
+    background-color: #607d8b; }
   .progress .progress-bar-material-brown {
-    backgorund-color: #795548; }
+    background-color: #795548; }
   .progress .progress-bar-material-lightgrey {
-    backgorund-color: #ececec; }
+    background-color: #ececec; }
 
 .text-warning {
   color: #ff5722; }
