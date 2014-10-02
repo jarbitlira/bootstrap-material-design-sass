@@ -85,7 +85,7 @@
     transform: scale(2.5);
 }
 [disabled].noUi-slider{
-    opacity: 0@include 5();
+    opacity: 0.5;
 }
 [disabled] .noUi-handle {
     cursor: not-allowed;
