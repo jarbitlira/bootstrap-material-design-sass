@@ -86,7 +86,7 @@ select[multiple].form-control {
         top: 7px;
         left: 0;
         pointer-events: none;
-        opacity: 0@include 9();
+        opacity: 0.9;
         transform-origin: left;
     }
     .input-lg ~ .material-input:after {
@@ -143,11 +143,11 @@ select[multiple].form-control {
             color: $input-info;
         }
     }
-    .variations(#{" .material-input:before"}, background-color, $indigo);
-    .variations(#{" input.form-control:focus ~ .material-input:after"}, background-color, $indigo);
-    .variations(#{" input.form-control.focus ~ .material-input:after"}, background-color, $indigo);
-    .variations(#{" .control-label"}, color, $lightbg-text);
-    .variations(#{" input.form-control:not(.empty) ~ .floating-label"}, color, $indigo);
+    //.variations(#{" .material-input:before"}, background-color, $indigo);
+    //.variations(#{" input.form-control:focus ~ .material-input:after"}, background-color, $indigo);
+    //.variations(#{" input.form-control.focus ~ .material-input:after"}, background-color, $indigo);
+    //.variations(#{" .control-label"}, color, $lightbg-text);
+    //.variations(#{" input.form-control:not(.empty) ~ .floating-label"}, color, $indigo);
 
 }
 
@@ -195,7 +195,9 @@ select.form-control {
     }
 }
 
-@keyframes input-highlight {.keyframe-input-highlight()}
+@keyframes input-highlight {
+    @include keyframe-input-highlight()
+}
 
 
 // Input files (kinda hack)

@@ -51,8 +51,8 @@
         }
 
     }
-    .variations(#{" input[type=radio]:checked ~ .check"}, background-color, $radio-default);
-    .variations(#{" input[type=radio]:checked ~ .circle"}, border-color, $radio-default);
+    //.variations(#{" input[type=radio]:checked ~ .check"}, background-color, $radio-default);
+    //.variations(#{" input[type=radio]:checked ~ .circle"}, border-color, $radio-default);
 
     input[type=radio][disabled] ~ .check,
     input[type=radio][disabled] ~ .circle {

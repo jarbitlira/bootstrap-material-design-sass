@@ -40,7 +40,7 @@
     }
 
     // Variations
-    .variations(#{" .check"}, color, $success);
+    //.variations(#{" .check"}, color, $success);
 
     // Hide native checkbox
     input[type=checkbox] { opacity: 0; }
@@ -88,7 +88,7 @@
         transform: rotate(-45deg);
     }
 
-    .variations(#{" input[type=checkbox]:checked ~ .check:after"}, background-color, $success);
+    //.variations(#{" input[type=checkbox]:checked ~ .check:after"}, background-color, $success);
 }
 
 @keyframes uncheck {

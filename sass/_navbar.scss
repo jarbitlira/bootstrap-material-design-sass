@@ -126,7 +126,7 @@
         }
     }
 
-    .btn-link {
+    .navbar-link {
         color: $navbar-link-color;
         &:hover,
         &:focus {
@@ -157,12 +157,13 @@
         ::-moz-placeholder { color: $navbar-border; };
         :-ms-input-placeholder { color: $navbar-border; };
     }
+}
 
-    .variations(#{""}, background-color, $primary);
-    &-inverse {
+.navbar-inverse {
         background-color: $indigo;
     }
-    &-material-white {
+
+.navbar-white {
         background-color: #FFF;
         .navbar-brand, .navbar-brand:hover, .navbar-brand:focus {
             color: $lightbg-text;
@@ -205,4 +206,83 @@
 
         }
     }
+
+// Navbar alternate
+// --------------------------------------------------
+
+.navbar-default {
+  @include navbar-variant($primary);
 }
+.navbar-primary {
+  @include navbar-variant($primary);
+}
+// Success appears as green
+.navbar-success {
+  @include navbar-variant($success);
+}
+// Info appears as blue-green
+.navbar-info {
+  @include navbar-variant($info);
+}
+// Warning appears as orange
+.navbar-warning {
+  @include navbar-variant($warning);
+}
+// Danger and error appear as red
+.navbar-danger {
+  @include navbar-variant($danger);
+}
+
+// Material shades
+.navbar-material-red {
+    @include navbar-variant($red)
+}
+.navbar-material-pink {
+    @include navbar-variant($pink);
+}
+.navbar-material-purple {
+    @include navbar-variant($purple);
+}
+.navbar-material-deeppurple {
+    @include navbar-variant($deeppurple);
+}
+.navbar-material-indigo {
+    @include navbar-variant($indigo);
+}
+.navbar-material-lightblue {
+    @include navbar-variant($lightblue);
+}
+.navbar-material-cyan {
+    @include navbar-variant($cyan);
+}
+.navbar-material-teal {
+    @include navbar-variant($teal);
+}
+.navbar-material-lightgreen {
+    @include navbar-variant($lightgreen);
+}
+.navbar-material-lime {
+    @include navbar-variant($lime);
+}
+.navbar-material-lightyellow {
+    @include navbar-variant($lightyellow);
+}
+.navbar-material-orange {
+    @include navbar-variant($orange);
+}
+.navbar-material-deeporange {
+    @include navbar-variant($deeporange);
+}
+.navbar-material-grey {
+    @include navbar-variant($grey);
+}
+.navbar-material-bluegrey {
+    @include navbar-variant($bluegrey);
+}
+.navbar-material-brown {
+    @include navbar-variant($brown);
+}
+.navbar-material-lightgrey {
+    @include navbar-variant($lightgrey);
+}
+
