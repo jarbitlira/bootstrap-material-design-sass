@@ -1,6 +1,8 @@
 Material Design for Bootstrap
 =========================
 
+# WORK IN PROGRESS, DO NOT USE.
+
 This Bootstrap theme is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
 Just include the theme right after the Bootstrap CSS and include the javascript at the end of your document, everything will be converted to Material Design (paper) style.
 

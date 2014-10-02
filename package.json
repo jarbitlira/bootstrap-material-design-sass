@@ -1,21 +1,26 @@
 {
-  "name": "bootstrap-material",
-  "version": "1.0.0",
-  "description": "Material Design for Bootstrap\r =========================",
+  "name": "bootstrap-material-sass",
+  "version": "0.0.1",
+  "description": "Material Design for Bootstrap, SASS version\r =========================",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://FezVrasta:phoebe92fez@github.com/FezVrasta/bootstrap-material-design.git"
+    "url": "https://https://github.com/shockwork/bootstrap-material-design-sass.git"
   },
-  "author": "Federico Zivolo",
-  "license": "https://github.com/FezVrasta/bootstrap-material-design/blob/master/LICENSE.md",
+  "authors": "Robert Stenbom <robert@shockwork.net>",
+  "contributors": [{
+    "name": "Peter Nguyen <pengux>"
+  }, {
+    "name": "Robert Stenbom <shockwork>"
+  }],
+  "license": "https://github.com/shockwork/bootstrap-material-design-sass/blob/master/LICENSE.md",
   "bugs": {
-    "url": "https://github.com/FezVrasta/bootstrap-material-design/issues"
+    "url": "https://github.com/shockwork/bootstrap-material-design-sass/issues"
   },
-  "homepage": "https://github.com/FezVrasta/bootstrap-material-design",
+  "homepage": "https://github.com/shockwork/bootstrap-material-design-sass",
   "devDependencies": {
     "fs-extra": "^0.12.0",
     "grunt": "^0.4.5",
