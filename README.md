@@ -1,18 +1,18 @@
-Material Design for Bootstrap
+Material Design for Bootstrap (SASS)
 =========================
 
-# WORK IN PROGRESS, DO NOT USE.
+The less version can be found [here](https://github.com/FezVrasta/bootstrap-material-design)
 
 This Bootstrap theme is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
 Just include the theme right after the Bootstrap CSS and include the javascript at the end of your document, everything will be converted to Material Design (paper) style.
 
 This theme is in early development and is not ready for production.
 
-Check out [the demo at this link](http://fezvrasta.github.io/bootstrap-material-design/).
+Check out [the demo at this link](http://shockwork.github.io/bootstrap-material-design/).
 
 ## How to install
 
-    bower install bootstrap-material-design --save
+    bower install bootstrap-material-design-sass --save
 
 ## Getting started
 
@@ -51,9 +51,9 @@ Todo elements:
 
 I'll try to write every component without the need of Javascript but just CSS, and use JS only if strictly needed.
 
-# Support me
+# Support the original project
 
-If you like this project you may support me by donating something on Gittip, starring this repository or reporting bugs and ideas in the issue section.
+If you like the original project you may support it by donating something on Gittip
 
 [![gittip](screenshots/gittip-button.jpg)](https://www.gittip.com/FezVrasta/)
 [![issues](screenshots/issues-button.jpg)](https://github.com/FezVrasta/bootstrap-material-design/issues)
